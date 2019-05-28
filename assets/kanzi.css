@@ -1,0 +1,17 @@
+article, section, ul, li, p {
+  border-style: dashed;
+  border-width: thin;
+  border-color: red;
+}
+
+section {
+  height: 100%
+}
+
+li, p {
+  display: inline-block;
+}
+
+li {
+  list-style-type: none;
+}
